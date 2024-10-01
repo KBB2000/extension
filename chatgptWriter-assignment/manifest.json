@@ -1,0 +1,25 @@
+{
+    "manifest_version": 3,
+    "name": "ChatGPT Writer Assignment",
+    "version": "1.0",
+    "description": "A browser extension for writing assistance using ChatGPT.",
+    "permissions": ["storage", "activeTab"],
+    "background": {
+      "service_worker": "src/background.js"
+    },
+    "action": {
+        "default_popup": "src/popup.html",
+        "default_icon": {
+          "16": "assets/icon16.png",
+          "48": "assets/icon.png",
+          "128": "assets/icon.png"
+        }
+      },
+      "icons": {
+        "16": "assets/icon.png",
+        "48": "assets/icon.png",
+        "128": "assets/icon.png"
+      }
+  
+  }
+  
