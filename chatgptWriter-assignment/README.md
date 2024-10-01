@@ -17,10 +17,6 @@ See how to load the extension: https://docs.plasmo.com/framework/workflows/dev#l
 For further guidance, [visit our Documentation](https://docs.plasmo.com/).
 
 ## Assignment Demonstration
-
-
-https://github.com/dasariabhiram/chatgptWriter-assignment/assets/121662792/7c546a77-a84c-49c4-9b9e-5ab56bc33b0c
-
 Overview
 PlasmoOverlay is a specialized React component designed to overlay on LinkedIn web pages, enhancing messaging interactions. It incorporates the following features:
 
